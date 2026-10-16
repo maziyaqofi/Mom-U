@@ -1,9 +1,15 @@
+# Python environment
 .venv/
 __pycache__/
 *.pyc
+
+# macOS
 .DS_Store
+
+# Local corpus data
+data/raw/
+data/processed/
+data/evaluation/
+
+# Environment variables
 .env
-.env.*
-!.env.example
-.ipynb_checkpoints/
-results/*.log
