@@ -15,3 +15,7 @@ __pycache__/
 # Generated embeddings and model cache
 data/cache/
 .cache/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
