@@ -1,15 +1,17 @@
-# Python environment
+# Python virtual environments
 .venv/
+.venv-ml/
+venv/
+
+# Python cache
 __pycache__/
-*.pyc
-
-# macOS
-.DS_Store
-
-# Local corpus data
-data/raw/
-data/processed/
-data/evaluation/
+*.py[cod]
+.pytest_cache/
 
 # Environment variables
 .env
+.env.*
+
+# Generated embeddings and model cache
+data/cache/
+.cache/

@@ -1,0 +1,26 @@
+{
+  "total_documents": 1778,
+  "unique_medication_names": 1725,
+  "documents_with_safety_statement": 796,
+  "documents_without_safety_statement": 982,
+  "category_distribution": {
+    "D": 398,
+    "B3": 388,
+    "C": 337,
+    "B2": 251,
+    "B1": 209,
+    "A": 151,
+    "X": 41,
+    "B1 or B2 (depending on brand of vaccine)": 1,
+    "A or B2 (depending on brand of vaccine)": 1,
+    "B1 or B2 depending on brand": 1
+  },
+  "missing_values": {
+    "Name": 0,
+    "Category": 0,
+    "Safety statement": 982,
+    "Classification 1": 2,
+    "Classification 2": 280,
+    "Classification 3": 1521
+  }
+}
