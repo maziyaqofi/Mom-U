@@ -1,0 +1,109 @@
+query_id,query_type,language,query_text,target_document_id,method,target_rank,hit_at_1,hit_at_5,hit_at_10,reciprocal_rank_at_10
+Q001,exact_name,en,paracetamol,TGA_01250,bm25,1,1,1,1,1.0
+Q001,exact_name,en,paracetamol,TGA_01250,semantic,1,1,1,1,1.0
+Q001,exact_name,en,paracetamol,TGA_01250,hybrid,1,1,1,1,1.0
+Q002,english_question,en,What is the pregnancy safety information for paracetamol?,TGA_01250,bm25,1,1,1,1,1.0
+Q002,english_question,en,What is the pregnancy safety information for paracetamol?,TGA_01250,semantic,1,1,1,1,1.0
+Q002,english_question,en,What is the pregnancy safety information for paracetamol?,TGA_01250,hybrid,1,1,1,1,1.0
+Q003,indonesian_question,id,Apakah paracetamol aman untuk ibu hamil?,TGA_01250,bm25,1,1,1,1,1.0
+Q003,indonesian_question,id,Apakah paracetamol aman untuk ibu hamil?,TGA_01250,semantic,1,1,1,1,1.0
+Q003,indonesian_question,id,Apakah paracetamol aman untuk ibu hamil?,TGA_01250,hybrid,1,1,1,1,1.0
+Q004,exact_name,en,ibuprofen,TGA_00831,bm25,1,1,1,1,1.0
+Q004,exact_name,en,ibuprofen,TGA_00831,semantic,1,1,1,1,1.0
+Q004,exact_name,en,ibuprofen,TGA_00831,hybrid,1,1,1,1,1.0
+Q005,english_question,en,What is the pregnancy safety information for ibuprofen?,TGA_00831,bm25,1,1,1,1,1.0
+Q005,english_question,en,What is the pregnancy safety information for ibuprofen?,TGA_00831,semantic,1,1,1,1,1.0
+Q005,english_question,en,What is the pregnancy safety information for ibuprofen?,TGA_00831,hybrid,1,1,1,1,1.0
+Q006,indonesian_question,id,Apakah ibuprofen aman untuk ibu hamil?,TGA_00831,bm25,1,1,1,1,1.0
+Q006,indonesian_question,id,Apakah ibuprofen aman untuk ibu hamil?,TGA_00831,semantic,1,1,1,1,1.0
+Q006,indonesian_question,id,Apakah ibuprofen aman untuk ibu hamil?,TGA_00831,hybrid,1,1,1,1,1.0
+Q007,exact_name,en,aspirin,TGA_00129,bm25,3,0,1,1,0.3333333333333333
+Q007,exact_name,en,aspirin,TGA_00129,semantic,3,0,1,1,0.3333333333333333
+Q007,exact_name,en,aspirin,TGA_00129,hybrid,3,0,1,1,0.3333333333333333
+Q008,english_question,en,What is the pregnancy safety information for aspirin?,TGA_00129,bm25,3,0,1,1,0.3333333333333333
+Q008,english_question,en,What is the pregnancy safety information for aspirin?,TGA_00129,semantic,3,0,1,1,0.3333333333333333
+Q008,english_question,en,What is the pregnancy safety information for aspirin?,TGA_00129,hybrid,3,0,1,1,0.3333333333333333
+Q009,indonesian_question,id,Apakah aspirin aman untuk ibu hamil?,TGA_00129,bm25,3,0,1,1,0.3333333333333333
+Q009,indonesian_question,id,Apakah aspirin aman untuk ibu hamil?,TGA_00129,semantic,3,0,1,1,0.3333333333333333
+Q009,indonesian_question,id,Apakah aspirin aman untuk ibu hamil?,TGA_00129,hybrid,3,0,1,1,0.3333333333333333
+Q010,exact_name,en,amoxicillin,TGA_00090,bm25,1,1,1,1,1.0
+Q010,exact_name,en,amoxicillin,TGA_00090,semantic,1,1,1,1,1.0
+Q010,exact_name,en,amoxicillin,TGA_00090,hybrid,1,1,1,1,1.0
+Q011,english_question,en,What is the pregnancy safety information for amoxicillin?,TGA_00090,bm25,1,1,1,1,1.0
+Q011,english_question,en,What is the pregnancy safety information for amoxicillin?,TGA_00090,semantic,1,1,1,1,1.0
+Q011,english_question,en,What is the pregnancy safety information for amoxicillin?,TGA_00090,hybrid,1,1,1,1,1.0
+Q012,indonesian_question,id,Apakah amoxicillin aman untuk ibu hamil?,TGA_00090,bm25,1,1,1,1,1.0
+Q012,indonesian_question,id,Apakah amoxicillin aman untuk ibu hamil?,TGA_00090,semantic,1,1,1,1,1.0
+Q012,indonesian_question,id,Apakah amoxicillin aman untuk ibu hamil?,TGA_00090,hybrid,1,1,1,1,1.0
+Q013,exact_name,en,metformin,TGA_01052,bm25,2,0,1,1,0.5
+Q013,exact_name,en,metformin,TGA_01052,semantic,4,0,1,1,0.25
+Q013,exact_name,en,metformin,TGA_01052,hybrid,1,1,1,1,1.0
+Q014,english_question,en,What is the pregnancy safety information for metformin?,TGA_01052,bm25,1,1,1,1,1.0
+Q014,english_question,en,What is the pregnancy safety information for metformin?,TGA_01052,semantic,1,1,1,1,1.0
+Q014,english_question,en,What is the pregnancy safety information for metformin?,TGA_01052,hybrid,1,1,1,1,1.0
+Q015,indonesian_question,id,Apakah metformin aman untuk ibu hamil?,TGA_01052,bm25,2,0,1,1,0.5
+Q015,indonesian_question,id,Apakah metformin aman untuk ibu hamil?,TGA_01052,semantic,2,0,1,1,0.5
+Q015,indonesian_question,id,Apakah metformin aman untuk ibu hamil?,TGA_01052,hybrid,1,1,1,1,1.0
+Q016,exact_name,en,folic acid,TGA_00719,bm25,1,1,1,1,1.0
+Q016,exact_name,en,folic acid,TGA_00719,semantic,1,1,1,1,1.0
+Q016,exact_name,en,folic acid,TGA_00719,hybrid,1,1,1,1,1.0
+Q017,english_question,en,What is the pregnancy safety information for folic acid?,TGA_00719,bm25,2,0,1,1,0.5
+Q017,english_question,en,What is the pregnancy safety information for folic acid?,TGA_00719,semantic,1,1,1,1,1.0
+Q017,english_question,en,What is the pregnancy safety information for folic acid?,TGA_00719,hybrid,1,1,1,1,1.0
+Q018,indonesian_question,id,Apakah folic acid aman untuk ibu hamil?,TGA_00719,bm25,1,1,1,1,1.0
+Q018,indonesian_question,id,Apakah folic acid aman untuk ibu hamil?,TGA_00719,semantic,1,1,1,1,1.0
+Q018,indonesian_question,id,Apakah folic acid aman untuk ibu hamil?,TGA_00719,hybrid,1,1,1,1,1.0
+Q019,exact_name,en,omeprazole,TGA_01205,bm25,1,1,1,1,1.0
+Q019,exact_name,en,omeprazole,TGA_01205,semantic,1,1,1,1,1.0
+Q019,exact_name,en,omeprazole,TGA_01205,hybrid,1,1,1,1,1.0
+Q020,english_question,en,What is the pregnancy safety information for omeprazole?,TGA_01205,bm25,1,1,1,1,1.0
+Q020,english_question,en,What is the pregnancy safety information for omeprazole?,TGA_01205,semantic,2,0,1,1,0.5
+Q020,english_question,en,What is the pregnancy safety information for omeprazole?,TGA_01205,hybrid,1,1,1,1,1.0
+Q021,indonesian_question,id,Apakah omeprazole aman untuk ibu hamil?,TGA_01205,bm25,1,1,1,1,1.0
+Q021,indonesian_question,id,Apakah omeprazole aman untuk ibu hamil?,TGA_01205,semantic,,0,0,0,0.0
+Q021,indonesian_question,id,Apakah omeprazole aman untuk ibu hamil?,TGA_01205,hybrid,1,1,1,1,1.0
+Q022,exact_name,en,cetirizine,TGA_00315,bm25,1,1,1,1,1.0
+Q022,exact_name,en,cetirizine,TGA_00315,semantic,6,0,0,1,0.16666666666666666
+Q022,exact_name,en,cetirizine,TGA_00315,hybrid,1,1,1,1,1.0
+Q023,english_question,en,What is the pregnancy safety information for cetirizine?,TGA_00315,bm25,1,1,1,1,1.0
+Q023,english_question,en,What is the pregnancy safety information for cetirizine?,TGA_00315,semantic,1,1,1,1,1.0
+Q023,english_question,en,What is the pregnancy safety information for cetirizine?,TGA_00315,hybrid,1,1,1,1,1.0
+Q024,indonesian_question,id,Apakah cetirizine aman untuk ibu hamil?,TGA_00315,bm25,1,1,1,1,1.0
+Q024,indonesian_question,id,Apakah cetirizine aman untuk ibu hamil?,TGA_00315,semantic,,0,0,0,0.0
+Q024,indonesian_question,id,Apakah cetirizine aman untuk ibu hamil?,TGA_00315,hybrid,1,1,1,1,1.0
+Q025,exact_name,en,loratadine,TGA_01000,bm25,1,1,1,1,1.0
+Q025,exact_name,en,loratadine,TGA_01000,semantic,2,0,1,1,0.5
+Q025,exact_name,en,loratadine,TGA_01000,hybrid,1,1,1,1,1.0
+Q026,english_question,en,What is the pregnancy safety information for loratadine?,TGA_01000,bm25,1,1,1,1,1.0
+Q026,english_question,en,What is the pregnancy safety information for loratadine?,TGA_01000,semantic,5,0,1,1,0.2
+Q026,english_question,en,What is the pregnancy safety information for loratadine?,TGA_01000,hybrid,1,1,1,1,1.0
+Q027,indonesian_question,id,Apakah loratadine aman untuk ibu hamil?,TGA_01000,bm25,1,1,1,1,1.0
+Q027,indonesian_question,id,Apakah loratadine aman untuk ibu hamil?,TGA_01000,semantic,,0,0,0,0.0
+Q027,indonesian_question,id,Apakah loratadine aman untuk ibu hamil?,TGA_01000,hybrid,2,0,1,1,0.5
+Q028,exact_name,en,ondansetron,TGA_01207,bm25,1,1,1,1,1.0
+Q028,exact_name,en,ondansetron,TGA_01207,semantic,1,1,1,1,1.0
+Q028,exact_name,en,ondansetron,TGA_01207,hybrid,1,1,1,1,1.0
+Q029,english_question,en,What is the pregnancy safety information for ondansetron?,TGA_01207,bm25,1,1,1,1,1.0
+Q029,english_question,en,What is the pregnancy safety information for ondansetron?,TGA_01207,semantic,1,1,1,1,1.0
+Q029,english_question,en,What is the pregnancy safety information for ondansetron?,TGA_01207,hybrid,1,1,1,1,1.0
+Q030,indonesian_question,id,Apakah ondansetron aman untuk ibu hamil?,TGA_01207,bm25,1,1,1,1,1.0
+Q030,indonesian_question,id,Apakah ondansetron aman untuk ibu hamil?,TGA_01207,semantic,4,0,1,1,0.25
+Q030,indonesian_question,id,Apakah ondansetron aman untuk ibu hamil?,TGA_01207,hybrid,1,1,1,1,1.0
+Q031,exact_name,en,naproxen,TGA_01133,bm25,1,1,1,1,1.0
+Q031,exact_name,en,naproxen,TGA_01133,semantic,4,0,1,1,0.25
+Q031,exact_name,en,naproxen,TGA_01133,hybrid,1,1,1,1,1.0
+Q032,english_question,en,What is the pregnancy safety information for naproxen?,TGA_01133,bm25,1,1,1,1,1.0
+Q032,english_question,en,What is the pregnancy safety information for naproxen?,TGA_01133,semantic,,0,0,0,0.0
+Q032,english_question,en,What is the pregnancy safety information for naproxen?,TGA_01133,hybrid,2,0,1,1,0.5
+Q033,indonesian_question,id,Apakah naproxen aman untuk ibu hamil?,TGA_01133,bm25,1,1,1,1,1.0
+Q033,indonesian_question,id,Apakah naproxen aman untuk ibu hamil?,TGA_01133,semantic,,0,0,0,0.0
+Q033,indonesian_question,id,Apakah naproxen aman untuk ibu hamil?,TGA_01133,hybrid,1,1,1,1,1.0
+Q034,exact_name,en,ketoprofen,TGA_00923,bm25,1,1,1,1,1.0
+Q034,exact_name,en,ketoprofen,TGA_00923,semantic,1,1,1,1,1.0
+Q034,exact_name,en,ketoprofen,TGA_00923,hybrid,1,1,1,1,1.0
+Q035,english_question,en,What is the pregnancy safety information for ketoprofen?,TGA_00923,bm25,1,1,1,1,1.0
+Q035,english_question,en,What is the pregnancy safety information for ketoprofen?,TGA_00923,semantic,1,1,1,1,1.0
+Q035,english_question,en,What is the pregnancy safety information for ketoprofen?,TGA_00923,hybrid,1,1,1,1,1.0
+Q036,indonesian_question,id,Apakah ketoprofen aman untuk ibu hamil?,TGA_00923,bm25,1,1,1,1,1.0
+Q036,indonesian_question,id,Apakah ketoprofen aman untuk ibu hamil?,TGA_00923,semantic,1,1,1,1,1.0
+Q036,indonesian_question,id,Apakah ketoprofen aman untuk ibu hamil?,TGA_00923,hybrid,1,1,1,1,1.0

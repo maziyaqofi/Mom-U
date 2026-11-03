@@ -205,6 +205,7 @@ Planned implementation:
 `src/retrieval/05_hybrid_retrieval.py`
 
 ### EXP-003 — Retrieval Evaluation
+| EXP-003 | Medication Target Retrieval Evaluation | BM25 vs Sentence-BERT vs Hybrid RRF | Completed — Initial Evaluation | [EXP-003](experiments/EXP-003_retrieval_evaluation.md) |
 
 **Status:** Planned
 
