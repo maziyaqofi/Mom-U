@@ -1,0 +1,10 @@
+{
+  "image_path": "/Users/macbookpro2019/MaziyaCode/Mom-U/data/ocr_samples/medication_01.jpg",
+  "ocr_engine": "Tesseract",
+  "ocr_version": "5.5.4",
+  "language": "eng",
+  "page_segmentation_mode": 3,
+  "extracted_text": "Phonic us.\nIbuprofen 200 my a\n\nay saviet Eat Sa\n\ns Caictcaver Bt HME .",
+  "text_detected": true,
+  "processed_at": "2026-11-04T05:10:17.941483+00:00"
+}

@@ -1,0 +1,10 @@
+image,expected_medication,expected_document_id,verification_status
+medication_01.jpg,ibuprofen,TGA_00831,verified
+medication_02.jpg,ibuprofen,TGA_00831,verified
+medication_03.png,ibuprofen,TGA_00831,verified
+medication_04.webp,ibuprofen,TGA_00831,verified
+medication_05.webp,ibuprofen,TGA_00831,verified
+medication_06.jpeg,paracetamol,TGA_01250,verified
+medication_07.jpg,paracetamol,TGA_01250,verified
+medication_08.webp,paracetamol,TGA_01250,verified
+medication_09.jpg,paracetamol,TGA_01250,verified

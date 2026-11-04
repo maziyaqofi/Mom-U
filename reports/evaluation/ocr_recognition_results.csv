@@ -1,0 +1,19 @@
+image,variant,psm,expected_medication,expected_document_id,resolution_status,candidate_names,hit_at_1,hit_at_5
+medication_01.jpg,original,6,ibuprofen,TGA_00831,matched,ibuprofen,1,1
+medication_01.jpg,grayscale,11,ibuprofen,TGA_00831,matched,ibuprofen,1,1
+medication_02.jpg,original,6,ibuprofen,TGA_00831,unresolved,,0,0
+medication_02.jpg,grayscale,11,ibuprofen,TGA_00831,unresolved,,0,0
+medication_03.png,original,6,ibuprofen,TGA_00831,matched,ibuprofen,1,1
+medication_03.png,grayscale,11,ibuprofen,TGA_00831,confirmation_required,ibuprofen | tacrine,1,1
+medication_04.webp,original,6,ibuprofen,TGA_00831,confirmation_required,ibuprofen,1,1
+medication_04.webp,grayscale,11,ibuprofen,TGA_00831,confirmation_required,ibuprofen,1,1
+medication_05.webp,original,6,ibuprofen,TGA_00831,matched,ibuprofen,1,1
+medication_05.webp,grayscale,11,ibuprofen,TGA_00831,confirmation_required,ibuprofen,1,1
+medication_06.jpeg,original,6,paracetamol,TGA_01250,matched,paracetamol | paracetamol,1,1
+medication_06.jpeg,grayscale,11,paracetamol,TGA_01250,matched,paracetamol,1,1
+medication_07.jpg,original,6,paracetamol,TGA_01250,no_text,,0,0
+medication_07.jpg,grayscale,11,paracetamol,TGA_01250,no_text,,0,0
+medication_08.webp,original,6,paracetamol,TGA_01250,unresolved,,0,0
+medication_08.webp,grayscale,11,paracetamol,TGA_01250,unresolved,,0,0
+medication_09.jpg,original,6,paracetamol,TGA_01250,matched,paracetamol,1,1
+medication_09.jpg,grayscale,11,paracetamol,TGA_01250,matched,paracetamol,1,1

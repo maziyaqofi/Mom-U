@@ -1,0 +1,15 @@
+query_id,query_type,query_text,expected_medications,expected_document_ids,evaluation_scope
+R001,exact_name,paracetamol,paracetamol,TGA_01250,single_target
+R002,indonesian_question,Apakah ibuprofen aman untuk ibu hamil?,ibuprofen,TGA_00831,single_target
+R003,english_question,Can I take loratadine during pregnancy?,loratadine,TGA_01000,single_target
+R004,misspelling,loratadin,loratadine,TGA_01000,single_target
+R005,misspelling,paracetmol,paracetamol,TGA_01250,single_target
+R006,brand_name,Panadol,paracetamol,TGA_01250,single_target
+R007,combination_medication,Is aspirin / dipyridamole safe during pregnancy?,aspirin / dipyridamole,TGA_00130,single_target
+R008,multi_medication,Can I take paracetamol and ibuprofen during pregnancy?,paracetamol|ibuprofen,TGA_01250|TGA_00831,multi_target
+R009,ocr_like,PARACETAMOL 500 MG TABLETS,paracetamol,TGA_01250,single_target
+R010,ocr_like,IBUPROFEN 200MG FILM COATED TABLETS,ibuprofen,TGA_00831,single_target
+R011,ocr_like_typo,PARACETAM0L 500 MG,paracetamol,TGA_01250,single_target
+R012,general_question,What medications are used for pain relief during pregnancy?,,,exploratory
+R013,general_question,Obat apa yang boleh digunakan saat hamil?,,,exploratory
+R014,unknown_medication,xyzmedication123,,,no_known_target

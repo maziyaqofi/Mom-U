@@ -1,0 +1,78 @@
+image,variant,psm,extracted_text,text_detected,character_count
+medication_01.jpg,original,3,"Phonic us.
+Ibuprofen 200 my a
+
+ay saviet Eat Sa
+
+s Caictcaver Bt HME .",True,70
+medication_01.jpg,original,6,"B| Phoric .., @
+ae i
+= | Ibuprofen 200mg",True,40
+medication_01.jpg,original,11,"Phonic sx.
+
+oe
+
+Ibuprofen 200m a
+
+rl
+
+carrtcover @ aan @
+
+ay saviet Eat Sa",True,74
+medication_01.jpg,grayscale,3,eae 2001 <i,True,11
+medication_01.jpg,grayscale,6,"= | Ibuprofen 200mg
+t a
+. save gu cane come S08 cae",True,51
+medication_01.jpg,grayscale,11,"ent
+
+ne
+
+Ibuprofen 200 mg
+
+ro
+
+ee ® tor GU",True,42
+medication_01.jpg,enhanced_2x,3,"K aplet
+
+Ibuprofe 200 mg
+
+iL
+. et Ent Selape
+er spt Blister gu
+§ Caietcay",True,73
+medication_01.jpg,enhanced_2x,6,"p > =
+| n a ; 'R)
+{ Ons Kaple |
+a al 65 Selut Selapye
+A TP ef ig Atras re 7 F
+. carctcever Bt arister @ “U Saaiet gait Selapat ecu
+8 Cate",True,137
+medication_01.jpg,enhanced_2x,11,"‘*
+
+Kaplet
+
+Ibuprofe 200 mg
+
+Ar
+
+en
+
+iy
+
+FS.
+
+FFF se
+
+vie
+
+<
+
+Ih
+
+al”
+
+at
+
+<aviet bat Sedapat
+
+cartcaver 4 arister @ “U",True,119

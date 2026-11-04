@@ -1,0 +1,228 @@
+image,variant,psm,extracted_text,text_detected,character_count,error
+medication_01.jpg,original,6,"B| Phoric .., @
+ae i
+= | Ibuprofen 200mg",True,40,
+medication_01.jpg,grayscale,11,"ent
+
+ne
+
+Ibuprofen 200 mg
+
+ro
+
+ee ® tor GU",True,42,
+medication_02.jpg,original,6,"xP
+“a Ss S
+= ES S
+<O eS S
+. o~ LoF f",True,36,
+medication_02.jpg,grayscale,11,"=
+
+xP
+
+ALD
+
+SS
+
+ZF
+
+SS
+
+KS
+
+S
+
+Ss
+
+<O
+
+3
+
+Ay
+
+SS
+
+yt
+
+7°
+
+SS
+
+pe
+
+ad
+
+ol
+
+ii
+
+4
+
+fi
+
+it
+
+BEE",True,92,
+medication_03.png,original,6,"AT ®& @e°:
+ZENTARIN
+IBUPROFEN ( ) @eo°
+2 Si aae
+oe WES ewe.” a
+eo, ,
+ee",True,71,
+medication_03.png,grayscale,11,"sown
+
+@eor
+
+TARIN
+
+oo:
+
+|BUPROFEN
+
+Cd
+
+Ss",True,41,
+medication_04.webp,original,6,"Ss »
+- ay =e Se
+ee
+16 Tablets
+motzon, Duprofen
+Since isos 200mg caplets
+——",True,74,
+medication_04.webp,grayscale,11,"16 Tablets
+
+, 'buprofen
+
+Since isos 200mg caplets",True,49,
+medication_05.webp,original,6,"a
+~ Ibuprofen»
+‘Suspension 100 moe!
+s g
+8 s",True,43,
+medication_05.webp,grayscale,11,"Stee,
+
+DIS ANT ash
+
+=
+
+.
+
+,@
+
+con
+
+* Ibu; profen= »
+
+>
+
+petal
+
+g
+
+g
+
+J
+
+8
+
+5
+
+Se",True,80,
+medication_06.jpeg,original,6,"_— OMet FA
+FostACETAM D1 eer RACETAN OL
+oot = deecta ~
+Ome =
+PARACETAMOL Se >
+Pap 0 Goer sa0i2o4Ar a MLE: 15201 04n2 =
+
+ia =
+
+PX PARACETAMOL See PANACETAM OL Jens
+
+——
+o , = =
+[ rer sa =
+\BACETAMOL SE PARACETANO| ee
+a",True,216,
+medication_06.jpeg,grayscale,11,"nee 8 60) 0 we
+
+‘aeons mt
+
+=o
+
+E~
+
+ie
+
+DARA
+
+ETAMD
+
+perm
+
+ET.
+
+603 mg
+
+No GULET Sa0100KAr=
+
+‘OMLs° 201
+
+daceuren moustogs
+
+""PARACETAMOL
+
+PASACETAMO
+
+stn. \,
+
+OMEE_
+
+a
+
+=",True,169,
+medication_07.jpg,original,6,,False,0,
+medication_07.jpg,grayscale,11,,False,0,
+medication_08.webp,original,6,"a * , |
+soe tame, i /
+S00m, “apler. | |",True,39,
+medication_08.webp,grayscale,11,"—,
+
+S00,
+
+Cet
+
+9 Com
+
+ipl
+
+am
+
+32
+
+—
+
+Sa
+
+=",True,43,
+medication_09.jpg,original,6,"SANMOL eee
+Paracetamol ou
+mann” oe
+
+5 Td",True,40,
+medication_09.jpg,grayscale,11,"SANMOL
+
+Paracetamol
+
+‘bist
+
+Tablet
+
+PEREDA NYERI
+
+PENURUN PANAS,
+
+@
+
+y Isi:dtablet  SANBE",True,89,

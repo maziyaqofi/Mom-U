@@ -1,0 +1,3 @@
+method,query_count,hit_at_1,hit_at_5,hit_at_10,mrr_at_10
+hybrid,36,0.8611111111111112,1.0,1.0,0.9166666666666666
+entity_aware,36,1.0,1.0,1.0,1.0
