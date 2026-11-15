@@ -1,0 +1,375 @@
+image,variant,psm,extracted_text,text_detected,character_count,processing_time_seconds,error
+medication_01.jpg,original,6,"B| Phoric .., @
+ae i
+= | Ibuprofen 200mg",True,40,1.0451,
+medication_01.jpg,grayscale,11,"ent
+
+ne
+
+Ibuprofen 200 mg
+
+ro
+
+ee ® tor GU",True,42,0.3477,
+medication_01.jpg,center_crop_upscaled,6,"bt Selut S6lz put
+buprofen 200 mg
+cairtcaver Bt atister @ ‘Y cavtet Gait Sela wm ie
+“Ch & Laer",True,94,0.929,
+medication_01.jpg,rotation_15,6,"> a @
+
+g\ Peo 00
+
+Zz. \ Wout y
+‘Ni, a",True,37,0.4451,
+medication_02.jpg,original,6,"xP
+“a Ss S
+= ES S
+<O eS S
+. o~ LoF f",True,36,0.841,
+medication_02.jpg,grayscale,11,"=
+
+xP
+
+ALD
+
+SS
+
+ZF
+
+SS
+
+KS
+
+S
+
+Ss
+
+<O
+
+3
+
+Ay
+
+SS
+
+yt
+
+7°
+
+SS
+
+pe
+
+ad
+
+ol
+
+ii
+
+4
+
+fi
+
+it
+
+BEE",True,92,0.6392,
+medication_02.jpg,center_crop_upscaled,6,"NN
+?
+aS “oO al
+——- ™ Jf¥
+333 2
+' <2 SF ete pe
+6 ag StS oe yy,
+JEPESPEEA a ai
+9394) Soe. IZ
+995933 =. fi
+NEESE tall se >
+x t= SS —_—ir— eet Suse - — ""35 ing .
+a ; SSS SseSes cS Ne Se te
+4 Sas 8 Ne ed hae SS - a
+N eS Ss \ “Sie
+a2 ae Set a
+oe SS DS Se ~clD 2-4 SS
+Ses SY roe Sa Wi at se Se
+af Iyaaos S SRR ETE EST 3 as
+ss A or he SR Bal SS eee eee Sy! 4
+e-. 4 > Sah a > PRAGA 4sta rs
+2 i ‘33057 - SEER REE Bes ;
+az f _ Nd et a "" he pO ee “5
+3] rhea a Sa Spe 4 = oS {
+J ; (sa epee See ae r <2; ) <> anam \
+nn cs od el aie ef - i as >. -
+TSRGCCEC! cer pett > > > 2 See see _—
+> DIAS “394 racer yy st : P, ,
+=< : = + Prey Siar > < ’ s
+: Ti bbc c Ze mo,
+= . ~ - ia ae sf €-« t — ¥
+x rye Se atest CC 6s ai . 5
+Pe > ; c= Si NNO «(2 :
+77S hgehanartes cevebue OE PP BR pp pale Pn her ate ;
+Pec CG’ ~ nck ee RBANS! ee = SP Paes Me
+ae | : a sn a sat tnt Ain gk Ls ‘
+P id ole Pa oe J a4 ow t tetas - ~4 ‘
+Pie arherkerd al eel, Este ee nd ft tu
+mn ney SiS va eb LIA SAS i ae m
+. Cietettor out eat ge Poe pe ye we re oo ce. OF tt ae ~ s
+St ESH ES ¢ ere tk. rr RP. 0.48 .
+COS te Sete ak Sf r ot eT ll
+en Pt ae et I ttt tO mn ee le S
+Sates ae > 16S FI 2 en Kg
+oa % ’ ; bisnpome ~~ ~~ > 7
+“2 os , , 2 ee x :
+r + oO 43 id
+26438 - sus ee.
+eee
++23 : - thd Ad -s
+te _ ~ —- arrees ~",True,1258,5.4186,
+medication_02.jpg,rotation_15,6,"a Sy
+aay, ('
+a DS ;
+we, Oo”. < 4 ae",True,35,1.2451,
+medication_03.png,original,6,"AT ®& @e°:
+ZENTARIN
+IBUPROFEN ( ) @eo°
+2 Si aae
+oe WES ewe.” a
+eo, ,
+ee",True,71,0.4257,
+medication_03.png,grayscale,11,"sown
+
+@eor
+
+TARIN
+
+oo:
+
+|BUPROFEN
+
+Cd
+
+Ss",True,41,0.3509,
+medication_03.png,center_crop_upscaled,6,"40 strip @ 10 tablet e — if
+TABLET ®
+\BUPROFEN w @e°°’
+Komposis!
+Tiap tablet mengandune
+Touprofe? 00 ms | Py e _
+“4 veurtH PHARMACEUTIONS a @) —
+Soom Wee SS rie ne
+Sr es aR CGR a ==, °°. :
+Sip SS SS gp we Po.",True,208,0.928,
+medication_03.png,rotation_15,6,"‘a i _
+- i win
+YS Oe",True,20,0.3757,
+medication_04.webp,original,6,"Ss »
+- ay =e Se
+ee
+16 Tablets
+motzon, Duprofen
+Since isos 200mg caplets
+——",True,74,0.3763,
+medication_04.webp,grayscale,11,"16 Tablets
+
+, 'buprofen
+
+Since isos 200mg caplets",True,49,0.3027,
+medication_04.webp,center_crop_upscaled,6,"‘ es ~
+= - = -
+- ay ey ae 4
+16 Tablets
+wo2,,. buprofen
+orrisons
+sinceis9g9 200mg caplets
+______",True,95,0.5438,
+medication_04.webp,rotation_15,6,\ ca Wwure ne,True,13,0.3771,
+medication_05.webp,original,6,"a
+~ Ibuprofen»
+‘Suspension 100 moe!
+s g
+8 s",True,43,0.2931,
+medication_05.webp,grayscale,11,"Stee,
+
+DIS ANT ash
+
+=
+
+.
+
+,@
+
+con
+
+* Ibu; profen= »
+
+>
+
+petal
+
+g
+
+g
+
+J
+
+8
+
+5
+
+Se",True,80,0.3406,
+medication_05.webp,center_crop_upscaled,6,"—
+= 9-H AE mcoey
+‘ @ 60m!
+Ny a?
+- Ibuprofen »”
+Suspension 100 mg""! “
+iy",True,71,0.5471,
+medication_05.webp,rotation_15,6,"Leen
+- ae ‘ 3
+‘ e a
+‘5, al
+> youre
+« %
+_",True,40,0.4557,
+medication_06.jpeg,original,6,"_— OMet FA
+FostACETAM D1 eer RACETAN OL
+oot = deecta ~
+Ome =
+PARACETAMOL Se >
+Pap 0 Goer sa0i2o4Ar a MLE: 15201 04n2 =
+
+ia =
+
+PX PARACETAMOL See PANACETAM OL Jens
+
+——
+o , = =
+[ rer sa =
+\BACETAMOL SE PARACETANO| ee
+a",True,216,0.6147,
+medication_06.jpeg,grayscale,11,"nee 8 60) 0 we
+
+‘aeons mt
+
+=o
+
+E~
+
+ie
+
+DARA
+
+ETAMD
+
+perm
+
+ET.
+
+603 mg
+
+No GULET Sa0100KAr=
+
+‘OMLs° 201
+
+daceuren moustogs
+
+""PARACETAMOL
+
+PASACETAMO
+
+stn. \,
+
+OMEE_
+
+a
+
+=",True,169,0.4463,
+medication_06.jpeg,center_crop_upscaled,6,"PonnACETAMD! wm paRACETAMG ¥
+gp AcotalSEEIAS00 sng - . Sectors OF ey My
+L PARACETAMDL mee PARACETAMOL |
+ra No. GBL8715201504A2""——— ee ky GELS"" 15201 }04n2 (~
+> OME |
+| SAFE rn
+a> <a:
+he a ————— tan
+» PARACETAMOL mee, PARACETAMOL =
+‘al 7. =",True,239,1.2224,
+medication_06.jpeg,rotation_15,6,i,True,1,0.3086,
+medication_07.jpg,original,6,,False,0,0.1751,
+medication_07.jpg,grayscale,11,,False,0,0.166,
+medication_07.jpg,center_crop_upscaled,6,"aaee
+suwasesic 4? | ».canasiee
+Parasetamol os
+2) pALsenG ANTIPITC PLBAR CA @ Innere mat Pa",True,90,0.3664,
+medication_07.jpg,rotation_15,6,"“a a Roa
+ee",True,11,0.266,
+medication_08.webp,original,6,"a * , |
+soe tame, i /
+S00m, “apler. | |",True,39,0.4142,
+medication_08.webp,grayscale,11,"—,
+
+S00,
+
+Cet
+
+9 Com
+
+ipl
+
+am
+
+32
+
+—
+
+Sa
+
+=",True,43,0.3773,
+medication_08.webp,center_crop_upscaled,6,"—
+Porace, ~ —
+00 q
+m mM
+Caplen
+| 32>",True,36,1.0231,
+medication_08.webp,rotation_15,6,"ae, . 4 ,
+>... = ‘vi
+Paracetamol \ 1
+$00msg Caplet: é
+be a iad
+- _ ae",True,69,0.5293,
+medication_09.jpg,original,6,"SANMOL eee
+Paracetamol ou
+mann” oe
+
+5 Td",True,40,0.3133,
+medication_09.jpg,grayscale,11,"SANMOL
+
+Paracetamol
+
+‘bist
+
+Tablet
+
+PEREDA NYERI
+
+PENURUN PANAS,
+
+@
+
+y Isi:dtablet  SANBE",True,89,0.3011,
+medication_09.jpg,center_crop_upscaled,6,"ar
+® SANMOL
+a SANMOL Paracetamol
+_ Paracetamol BAS
+Tablet ant 500 og
+© PeMURUN PANAS, = ss Sion oat yo er ooo
+PEREDA NYERI : deven
+4 Seas robles, 34
+Looe seam peboopat ded ter
+He, beg tonat
+o Isi: 4 tablet SANBE anaes s
+y 4",True,223,0.6385,
+medication_09.jpg,rotation_15,6,"SPB cam
+see
+: : ot
+aot °
+Anse",True,29,0.3095,

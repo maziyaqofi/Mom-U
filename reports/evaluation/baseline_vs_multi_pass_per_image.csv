@@ -1,0 +1,19 @@
+method,image,expected_medication,expected_document_id,candidate_count,candidate_names,hit_at_1,hit_at_5,correct_candidate_count,false_candidate_count,has_false_candidate,explicit_correct,unresolved,missed
+Baseline Aggregation,medication_01.jpg,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,1,0,0
+Baseline Aggregation,medication_02.jpg,ibuprofen,TGA_00831,0,,0,0,0,0,0,0,1,1
+Baseline Aggregation,medication_03.png,ibuprofen,TGA_00831,2,ibuprofen | tacrine,1,1,1,1,1,1,0,0
+Baseline Aggregation,medication_04.webp,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,0,0,0
+Baseline Aggregation,medication_05.webp,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,1,0,0
+Baseline Aggregation,medication_06.jpeg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0
+Baseline Aggregation,medication_07.jpg,paracetamol,TGA_01250,0,,0,0,0,0,0,0,1,1
+Baseline Aggregation,medication_08.webp,paracetamol,TGA_01250,0,,0,0,0,0,0,0,1,1
+Baseline Aggregation,medication_09.jpg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0
+EXP-005H Multi-Pass,medication_01.jpg,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,1,0,0
+EXP-005H Multi-Pass,medication_02.jpg,ibuprofen,TGA_00831,0,,0,0,0,0,0,0,1,1
+EXP-005H Multi-Pass,medication_03.png,ibuprofen,TGA_00831,2,ibuprofen | tacrine,1,1,1,1,1,1,0,0
+EXP-005H Multi-Pass,medication_04.webp,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,0,0,0
+EXP-005H Multi-Pass,medication_05.webp,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,1,0,0
+EXP-005H Multi-Pass,medication_06.jpeg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0
+EXP-005H Multi-Pass,medication_07.jpg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,0,0,0
+EXP-005H Multi-Pass,medication_08.webp,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0
+EXP-005H Multi-Pass,medication_09.jpg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0

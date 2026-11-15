@@ -1,0 +1,15 @@
+method,metric,numerator,denominator,percentage
+Baseline Aggregation,Hit@1,6,9,66.67
+Baseline Aggregation,Hit@5,6,9,66.67
+Baseline Aggregation,Candidate Precision,6,7,85.71
+Baseline Aggregation,False Candidate Rate,1,9,11.11
+Baseline Aggregation,Unresolved Rate,3,9,33.33
+Baseline Aggregation,Missed Rate,3,9,33.33
+Baseline Aggregation,Explicit Recognition Rate,5,9,55.56
+EXP-005H Multi-Pass,Hit@1,8,9,88.89
+EXP-005H Multi-Pass,Hit@5,8,9,88.89
+EXP-005H Multi-Pass,Candidate Precision,8,9,88.89
+EXP-005H Multi-Pass,False Candidate Rate,1,9,11.11
+EXP-005H Multi-Pass,Unresolved Rate,1,9,11.11
+EXP-005H Multi-Pass,Missed Rate,1,9,11.11
+EXP-005H Multi-Pass,Explicit Recognition Rate,6,9,66.67

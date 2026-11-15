@@ -1,0 +1,10 @@
+image,medication_name,document_ids,match_type,all_match_types,supporting_passes,pass_count,max_similarity,requires_user_confirmation
+medication_01.jpg,ibuprofen,TGA_00831,explicit_mention,explicit_mention;fuzzy_suggestion,center_crop_upscaled;grayscale;original,3,100.0,True
+medication_03.png,ibuprofen,TGA_00831,explicit_mention,explicit_mention;fuzzy_suggestion,center_crop_upscaled;grayscale;original,3,100.0,True
+medication_03.png,tacrine,TGA_01562,fuzzy_suggestion,fuzzy_suggestion,grayscale,1,83.33,True
+medication_04.webp,ibuprofen,TGA_00831,fuzzy_suggestion,fuzzy_suggestion,center_crop_upscaled;grayscale;original,3,94.12,True
+medication_05.webp,ibuprofen,TGA_00831,explicit_mention,explicit_mention;fuzzy_suggestion,center_crop_upscaled;grayscale;original,3,100.0,True
+medication_06.jpeg,paracetamol,TGA_01250,explicit_mention,explicit_mention,center_crop_upscaled;grayscale;original,3,100.0,True
+medication_07.jpg,paracetamol,TGA_01250,fuzzy_suggestion,fuzzy_suggestion,center_crop_upscaled,1,90.91,True
+medication_08.webp,paracetamol,TGA_01250,explicit_mention,explicit_mention,rotation_15,1,100.0,True
+medication_09.jpg,paracetamol,TGA_01250,explicit_mention,explicit_mention,center_crop_upscaled;grayscale;original,3,100.0,True

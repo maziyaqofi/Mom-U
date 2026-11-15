@@ -1,0 +1,10 @@
+image,expected_medication,expected_document_id,candidate_count,candidate_names,hit_at_1,hit_at_5,correct_candidate_count,false_candidate_count,has_false_candidate,has_explicit_correct,unresolved,missed
+medication_01.jpg,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,1,0,0
+medication_02.jpg,ibuprofen,TGA_00831,0,,0,0,0,0,0,0,1,1
+medication_03.png,ibuprofen,TGA_00831,2,ibuprofen | tacrine,1,1,1,1,1,1,0,0
+medication_04.webp,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,0,0,0
+medication_05.webp,ibuprofen,TGA_00831,1,ibuprofen,1,1,1,0,0,1,0,0
+medication_06.jpeg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0
+medication_07.jpg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,0,0,0
+medication_08.webp,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0
+medication_09.jpg,paracetamol,TGA_01250,1,paracetamol,1,1,1,0,0,1,0,0

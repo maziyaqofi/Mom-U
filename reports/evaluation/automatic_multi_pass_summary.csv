@@ -1,0 +1,8 @@
+metric,numerator,denominator,percentage
+Hit@1,8,9,88.89
+Hit@5,8,9,88.89
+Candidate Precision,8,9,88.89
+False Candidate Rate,1,9,11.11
+Unresolved Rate,1,9,11.11
+Missed Rate,1,9,11.11
+Explicit Recognition Rate,6,9,66.67
