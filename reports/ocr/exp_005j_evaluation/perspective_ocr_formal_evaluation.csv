@@ -1,0 +1,189 @@
+medication,source,configuration,medication_name_target,medication_name_detected,strength_target,strength_detected,both_detected,ocr_text
+medication_02,original,PSM6,ibuprofen,False,200 mg,False,False,"xP
+, Ss S
+= ES S
+<O eS S
+. o~ LoF fi"
+medication_02,original,PSM11,ibuprofen,False,200 mg,False,False,"xD
+
+——
+
+eo
+
+Ss
+
+EE
+
+SS
+
+KS
+
+SS
+
+SS
+
+<O
+
+NK
+
+Py
+
+SS
+
+vo
+
+7°
+
+J
+
+Ke
+
+ji?
+
+VY ’
+
+Sig"
+medication_02,original,grayscale_PSM6,ibuprofen,False,200 mg,False,False,"2 cg
+a » Ase .
+me a zs 2
+“a | iP. J Ki
+ee ie , g pai"" Za"
+medication_02,original,grayscale_PSM11,ibuprofen,False,200 mg,False,False,"=
+
+xP
+
+ALD
+
+SS
+
+ZF
+
+SS
+
+KS
+
+S
+
+Ss
+
+<O
+
+3
+
+Ay
+
+SS
+
+yt
+
+7°
+
+SS
+
+pe
+
+ad
+
+ol
+
+ii
+
+4
+
+fi
+
+it
+
+BEE"
+medication_02,corrected,PSM6,ibuprofen,False,200 mg,False,False,"y
+v
+©)
+Paes
+3
+. %&
+Q «
+QO 2
+= <=
+Qoz
+aks
+8
+. Qs&s"
+medication_02,corrected,PSM11,ibuprofen,False,200 mg,False,False,"Qo
+
+o &
+
+we 6)
+
+S="
+medication_02,corrected,grayscale_PSM6,ibuprofen,False,200 mg,False,False,"4
+a
+ie)
+a.
+S
+= 3
+Y x
+QO 2
+} re
+Doe
+a3
+s
+Qs<«"
+medication_02,corrected,grayscale_PSM11,ibuprofen,False,200 mg,False,False,"Ad
+
+es =
+
+we, (\)
+
+eS"
+medication_08,original,PSM6,paracetamol,False,500 mg,False,False,"—~ , |
+Soetamc, _ /
+S00m, “aplet. | )"
+medication_08,original,PSM11,paracetamol,False,500 mg,False,False,"S00,
+
+Cet
+
+9
+
+ipl
+
+am
+
+32
+
+="
+medication_08,original,grayscale_PSM6,paracetamol,False,500 mg,False,False,"=
+Pq a
+Tq
+Son, Set
+Omg Camo! ;
+ets J
+— 32 y."
+medication_08,original,grayscale_PSM11,paracetamol,False,500 mg,False,False,"—,
+
+S00,
+
+Cet
+
+9 Com
+
+ipl
+
+am
+
+32
+
+—
+
+Sa
+
+="
+medication_08,corrected,PSM6,paracetamol,True,500 mg,True,True,"Paracetamol
+500mg Caplets"
+medication_08,corrected,PSM11,paracetamol,True,500 mg,True,True,"Paracetamol
+
+500mg Caplets"
+medication_08,corrected,grayscale_PSM6,paracetamol,True,500 mg,True,True,"Paracetamol
+500mg Caplets"
+medication_08,corrected,grayscale_PSM11,paracetamol,True,500 mg,True,True,"Paracetamol
+
+500mg Caplets"

@@ -1,0 +1,5 @@
+medication,source,total_runs,medication_name_success,strength_success,complete_recognition
+medication_02,corrected,4,0,0,0
+medication_02,original,4,0,0,0
+medication_08,corrected,4,4,4,4
+medication_08,original,4,0,0,0
