@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta
+        name="description"
+        content="MOM-U helps pregnant women find and review medication information."
+    >
+    <title>MOM-U — Pregnancy Medication Information</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/api.js" defer></script>
+    <script src="js/app.js" defer></script>
+</head>
+<body>
+    <div class="app-shell">
+        <header class="app-header">
+            <a class="brand" href="/" aria-label="MOM-U home">
+                <span class="brand-icon" aria-hidden="true">M</span>
+                <span class="brand-name">MOM-U</span>
+            </a>
+
+            <nav class="header-nav" aria-label="Main navigation">
+                <a href="#home" class="nav-link active">Home</a>
+                <a href="#about" class="nav-link">About</a>
+            </nav>
+
+            <div class="header-status">
+                <span class="status-indicator" aria-hidden="true"></span>
+                <span>Medication Information</span>
+            </div>
+        </header>
+
+        <main id="home" class="main-content">
+            <section class="hero-section" aria-labelledby="hero-title">
+                <div class="hero-content">
+                    <p class="eyebrow">PREGNANCY MEDICATION INFORMATION</p>
+
+                    <h1 id="hero-title">
+                        Make informed decisions about medication during pregnancy.
+                    </h1>
+
+                    <p class="hero-description">
+                        Explore medication information and review available
+                        pregnancy-related records from trusted sources.
+                    </p>
+
+                    <div class="search-panel">
+                        <label for="medication-query">What medication would you like to know about?</label>
+
+                        <form id="medication-search-form">
+                            <div class="search-input-wrapper">
+                                <input
+                                    type="text"
+                                    id="medication-query"
+                                    name="query"
+                                    placeholder="Enter a medication name..."
+                                    autocomplete="off"
+                                    required
+                                >
+                                <button type="submit" id="search-button">
+                                    Search medication
+                                </button>
+                            </div>
+                        </form>
+
+                        <p class="search-hint">
+                            Example: Paracetamol, Ibuprofen, or Loratadine
+                        </p>
+                    </div>
+                </div>
+
+                <aside class="hero-visual" aria-label="MOM-U information">
+                    <div class="visual-card">
+                        <div class="visual-icon" aria-hidden="true">✚</div>
+                        <p class="visual-label">Your medication information companion</p>
+                        <h2>Information with clarity and care.</h2>
+                        <span class="visual-decoration" aria-hidden="true">MOM-U</span>
+                    </div>
+                </aside>
+            </section>
+
+            <section
+                id="search-results"
+                class="results-section"
+                aria-live="polite"
+                aria-atomic="true"
+                hidden
+            >
+                <h2>Search results</h2>
+                <div id="results-container"></div>
+            </section>
+
+            <section id="about" class="disclaimer-section">
+                <div class="disclaimer-icon" aria-hidden="true">i</div>
+                <div>
+                    <h2>Important information</h2>
+                    <p>
+                        MOM-U provides medication information for educational
+                        purposes. Retrieved information is not a diagnosis,
+                        prescription, or guarantee of medication safety.
+                        Always consult a qualified healthcare professional
+                        before making medication decisions during pregnancy.
+                    </p>
+                </div>
+            </section>
+        </main>
+
+        <footer class="app-footer">
+            <p>&copy; 2026 MOM-U. Pregnancy Medication Information.</p>
+            <p>Designed to support informed conversations with healthcare professionals.</p>
+        </footer>
+    </div>
+</body>
+</html>
