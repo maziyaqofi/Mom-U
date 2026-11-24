@@ -421,12 +421,17 @@ a {
     }
 
     .header-nav {
-        display: none;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+
+    .nav-link {
+        font-size: 12px;
     }
 
     .header-status {
-        padding: 8px 10px;
-        font-size: 10px;
+        display: none;
     }
 
     .main-content {

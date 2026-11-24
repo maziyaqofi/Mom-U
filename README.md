@@ -37,3 +37,9 @@ pip install -r requirements.txt
 
 ## Ethical and content-use principles
 Check license and permitted reuse per document. Cite original sources. Do not commit copyrighted full text without permission, private health data, or API credentials. Research articles are evidence sources, not automatically patient-facing guidance.
+
+
+## running
+
+uvicorn app.main:app --reload 
+--> http://127.0.0.1:8000 
